@@ -10,6 +10,7 @@
 | 🎨 **[小红书封面生成器](https://zhanggongtool.cn/cover/)** | 输入文案，一键生成小红书风格封面，多版式配色，高清 PNG 导出 |
 | 🐉 **[Little Dragon](https://zhanggongtool.cn/game/)** | 给我儿子写的一只小龙的休闲小游戏 |
 | ✏️ **微信小程序 · AI Bike Fitting** | 公路车骑行 fitting 工具，支持视频动态 fitting 分析，一键出具 fitting 报告（微信搜「AI Bike Fitting」）|
+| 🏸 **微信小程序 · AI羽毛球助教** | 羽毛球动作 AI 分析工具，上传打球视频即可逐帧分析动作与关节角度，出具教练式改进报告（微信搜「AI羽毛球助教」）|
 
 
 👉 **网站工具直达：[zhanggongtool.cn](https://zhanggongtool.cn)**
